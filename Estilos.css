@@ -1,10 +1,10 @@
 body {
-    color: rgb(14, 243, 14);
+    color: #fcf876;
 }
 a {color: brown;}
 a {margin: 0px;} 
-body {background-color: yellow;}
-header {background-color: teal;}
+body {background: #cee397;}
+header {background-color:#8bcdcd;}
 img { 
     border: 20px;
     border-color: whitesmoke;
