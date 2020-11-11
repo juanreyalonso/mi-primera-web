@@ -1,17 +1,41 @@
 body {
     color: #ffffff;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background: #90be6d;
+    font-size: 12pt;
 }
-a {margin: 0px;} 
-body {
-    background: #cee397;
+header {
+    background-color:#f9c74f;
 }
-header {background-color:#8bcdcd;}
 #duenos  { 
-    border: 20px;
+    margin: 30px;
+    border: 20px;   
     border-color: whitesmoke;
     border-style: groove;
 }
-h2 + h3 {text-align: center;}
+a {
+    color: white;
+}
+h2 , h3 {
+    text-align: center;
+    margin: 15px;
+    font-weight: bold;
+}
 p {
-    margin: 50px;
+    margin: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+div {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+input{
+    margin: 0.2%;
+}
+label{
+    margin-right: 15%;
+}
+footer{
+    text-align: end;
 }
