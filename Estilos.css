@@ -1,13 +1,17 @@
 body {
-    color: #fcf876;
+    color: #ffffff;
 }
-a {color: brown;}
 a {margin: 0px;} 
-body {background: #cee397;}
+body {
+    background: #cee397;
+}
 header {background-color:#8bcdcd;}
 #duenos  { 
     border: 20px;
     border-color: whitesmoke;
     border-style: groove;
 }
-h2 {text-align: center;}
+h2 + h3 {text-align: center;}
+p {
+    margin: 50px;
+}
